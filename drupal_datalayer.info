@@ -1,0 +1,5 @@
+name = Drupal Data Layer
+description = Add user information to a dataLayer JavaScript object for use in GTM & Google Analytics
+core = 7.x
+
+files[] = src/DataLayer.inc
